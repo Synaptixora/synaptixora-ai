@@ -1,0 +1,5 @@
+{
+  "name": "Synaptixora",
+  "description": "Autonomous Multi-Agent Intelligence Workspace",
+  "requestFramePermissions": ["microphone"]
+}
